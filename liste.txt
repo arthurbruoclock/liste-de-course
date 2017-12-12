@@ -1,2 +1,5 @@
 Lait
 Oeufs
+Sucre
+Farine
+Maizena
